@@ -33,6 +33,7 @@ Componentes técnicos a desarrollar en la ejecucion del proyecto
 
 ![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
+![Supersystem map _EN](https://user-images.githubusercontent.com/39893474/133007864-ec557314-0b51-46ba-833d-b72e2ef79882.png)
 
 ### Ecosystem LMS
 
