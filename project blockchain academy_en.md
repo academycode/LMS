@@ -27,7 +27,7 @@ Technical components to be developed in the execution of the project
 
 ### Ecosystem LMS
 
-![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/Ecosistema%20de%20Blockchain%20academy_en.pdf)
+![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/Ecosistema%20LMS_en.jpg)
 
 ### Ecosystem Smart Contracts 
 
