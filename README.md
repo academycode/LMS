@@ -1,2 +1,2 @@
 # LMS
-Proyecto LMS
+Project LMS
